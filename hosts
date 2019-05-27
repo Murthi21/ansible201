@@ -1,0 +1,7 @@
+[nodes]
+node1 ansible_user=root
+node2 ansible_user=root
+
+[ubuntu:vars]
+ansible_become=true
+ansible_become_pass=password
