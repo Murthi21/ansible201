@@ -1,0 +1,17 @@
+
+host ubuntu1
+    HostName my93926dns.EastUS.cloudapp.azure.com
+    User minduseradmin
+   
+host master 
+HostName 35.243.191.83
+User root
+
+
+host node1
+HostName 35.238.41.245
+User root
+
+host node2
+HostName 35.226.113.236
+User root 
